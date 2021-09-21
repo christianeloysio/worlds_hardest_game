@@ -6,4 +6,6 @@ This repository is a reproduction of the "World's Hardest Game", developed insid
   <img src="https://i.pinimg.com/474x/e5/b7/02/e5b70209f2f7d0a86da2db0f134a12f4.jpg" >
 </p>
 
+How to play: Use the arrow keys to get to the other side. Avoid the blue dots.
+
 **Technologies: HTML, CSS, Vanilla JS**
